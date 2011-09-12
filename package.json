@@ -1,0 +1,12 @@
+{
+    "name": "locker-growl",
+    "description": "Growl notifications for Locker",
+    "version": "0.0.1",
+    "homepage": "https://github.com/erictj/locker-growl",
+    "engines": {
+        "node": ">= 0.4.6  <=0.4.99999"
+    },
+    "dependencies": {
+        "growl":"=1.1.0"
+    }
+}
